@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0100-same-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0100-same-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
@@ -19,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0100-same-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
 |  |
@@ -28,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0572-subtree-of-another-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
