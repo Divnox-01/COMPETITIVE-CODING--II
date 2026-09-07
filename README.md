@@ -67,12 +67,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0040-combination-sum-ii) |
+| [0216-combination-sum-iii](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0257-binary-tree-paths) |
 ## Array
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0048-rotate-image) |
+| [0216-combination-sum-iii](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0216-combination-sum-iii) |
 ## Math
 |  |
 | ------- |
