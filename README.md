@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Binary Lifting
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0048-rotate-image) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0216-combination-sum-iii](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0216-combination-sum-iii) |
 ## Math
 |  |
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0048-rotate-image) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
