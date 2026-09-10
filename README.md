@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0016-3sum-closest) |
 | [0040-combination-sum-ii](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0048-rotate-image) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0016-3sum-closest) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0977-squares-of-a-sorted-array) |
 ## Linked List
@@ -101,5 +103,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0016-3sum-closest) |
 | [0977-squares-of-a-sorted-array](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
