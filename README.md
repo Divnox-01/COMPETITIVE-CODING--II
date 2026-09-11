@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0662-maximum-width-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0700-search-in-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0662-maximum-width-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0700-search-in-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## String Matching
 |  |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Lifting
 |  |
 | ------- |
