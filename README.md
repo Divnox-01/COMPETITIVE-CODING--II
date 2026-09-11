@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0100-same-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0257-binary-tree-paths) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0100-same-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0257-binary-tree-paths) |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0100-same-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0257-binary-tree-paths) |
@@ -60,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0701-insert-into-a-binary-search-tree) |
