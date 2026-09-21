@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0048-rotate-image) |
+| [0258-add-digits](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0258-add-digits) |
 ## Matrix
 |  |
 | ------- |
@@ -142,4 +143,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0209-minimum-size-subarray-sum) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
