@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0048-rotate-image) |
 | [0258-add-digits](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0258-add-digits) |
+| [1492-the-kth-factor-of-n](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/1492-the-kth-factor-of-n) |
 ## Matrix
 |  |
 | ------- |
@@ -151,4 +152,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0258-add-digits) |
+| [1492-the-kth-factor-of-n](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/1492-the-kth-factor-of-n) |
+## Prime Factorization
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/1492-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
