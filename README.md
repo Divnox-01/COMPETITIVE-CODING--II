@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0216-combination-sum-iii) |
+| [0506-relative-ranks](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0506-relative-ranks) |
 | [0977-squares-of-a-sorted-array](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0075-sort-colors) |
+| [0506-relative-ranks](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0506-relative-ranks) |
 | [0977-squares-of-a-sorted-array](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0977-squares-of-a-sorted-array) |
 ## Quicksort
 |  |
@@ -157,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/1492-the-kth-factor-of-n) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
