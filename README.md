@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0257-binary-tree-paths) |
+| [0387-first-unique-character-in-a-string](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0387-first-unique-character-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
@@ -163,4 +164,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0506-relative-ranks) |
+## Hash Table
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
