@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0016-3sum-closest) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0033-search-in-rotated-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0075-sort-colors) |
