@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0084-largest-rectangle-in-histogram) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0216-combination-sum-iii) |
@@ -189,9 +190,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0084-largest-rectangle-in-histogram) |
 | [0232-implement-queue-using-stacks](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0232-implement-queue-using-stacks) |
 ## Design
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0084-largest-rectangle-in-histogram) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
