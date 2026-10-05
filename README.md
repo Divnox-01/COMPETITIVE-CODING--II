@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0238-product-of-array-except-self) |
 | [0506-relative-ranks](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0506-relative-ranks) |
+| [0746-min-cost-climbing-stairs](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0746-min-cost-climbing-stairs) |
 | [0977-squares-of-a-sorted-array](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0070-climbing-stairs) |
 | [0678-valid-parenthesis-string](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0678-valid-parenthesis-string) |
+| [0746-min-cost-climbing-stairs](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0746-min-cost-climbing-stairs) |
 ## Greedy
 |  |
 | ------- |
