@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0387-first-unique-character-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0572-subtree-of-another-tree) |
 | [0678-valid-parenthesis-string](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0856-score-of-parentheses) |
 ## Hash Function
 |  |
 | ------- |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0084-largest-rectangle-in-histogram) |
 | [0232-implement-queue-using-stacks](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0232-implement-queue-using-stacks) |
 | [0678-valid-parenthesis-string](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0856-score-of-parentheses) |
 ## Design
 |  |
 | ------- |
@@ -218,4 +220,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
