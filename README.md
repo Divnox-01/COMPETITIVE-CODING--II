@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0258-add-digits) |
 | [1492-the-kth-factor-of-n](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/1492-the-kth-factor-of-n) |
 ## Matrix
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0070-climbing-stairs) |
 | [0678-valid-parenthesis-string](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0678-valid-parenthesis-string) |
 ## Greedy
 |  |
@@ -221,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0856-score-of-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
