@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0100-same-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0301-remove-invalid-parentheses) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0301-remove-invalid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0387-first-unique-character-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0572-subtree-of-another-tree) |
 | [0678-valid-parenthesis-string](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0678-valid-parenthesis-string) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0040-combination-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0301-remove-invalid-parentheses) |
 ## Array
 |  |
 | ------- |
