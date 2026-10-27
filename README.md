@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0084-largest-rectangle-in-histogram) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0198-house-robber](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0219-contains-duplicate-ii) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0198-house-robber) |
 | [0678-valid-parenthesis-string](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/0746-min-cost-climbing-stairs) |
 | [3693-climbing-stairs-ii](https://github.com/Divnox-01/COMPETITIVE-CODING--II/tree/master/3693-climbing-stairs-ii) |
